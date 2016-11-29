@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://github.com/EPIKorial/UniBox2D/logo.png)
+
 ### UniBox2D ###
 
 2D ToolBox for Unity 3D v.5+
