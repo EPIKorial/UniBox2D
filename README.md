@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/EPIKorial/UniBox2D/logo.png)
+https://github.com/EPIKorial/UniBox2D/logo.png
 
 ### UniBox2D ###
 
