@@ -14,10 +14,10 @@
 - PCG dungeon generator using BSP splits
 
 - 2D methods :
-*
-	+ Smooth following camera 
-	+ Tile by tile movement script, adapted to dungeon generator
-	+ Look at 2D
-	+ Follow 2D
-	+ Follow 2D with distance
-*
+
+	*+ Smooth following camera *
+	*+ Tile by tile movement script, adapted to dungeon generator*
+	*+ Look at 2D*
+	*+ Follow 2D*
+	*+ Follow 2D with distance*
+
