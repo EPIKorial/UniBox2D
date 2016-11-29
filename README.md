@@ -1,26 +1,23 @@
 
 
 ![GitHub Logo](/logo.png)
-Format: ![Alt Text](url)
 
-
-https://github.com/EPIKorial/UniBox2D/logo.png
 
 ### UniBox2D ###
 
 2D ToolBox for Unity 3D v.5+
 
-Features :
+**Features :**
 
 - Level drawer plugin
 
 - PCG dungeon generator using BSP splits
 
 - 2D methods :
-*This text will be italic*
+*
 	+ Smooth following camera 
 	+ Tile by tile movement script, adapted to dungeon generator
 	+ Look at 2D
 	+ Follow 2D
 	+ Follow 2D with distance
-_This will also be italic_
+*
